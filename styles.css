@@ -1,0 +1,35 @@
+body {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  background-color: rgb(61, 61, 61);
+  height: 100vh;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+  color: aliceblue;
+}
+
+.container {
+  position: relative;
+}
+
+#By{
+  position: absolute;
+  top: 50px;
+  left: 45%;
+  transform: translate(-50%, -50%)
+}
+
+#Bn{
+  position: absolute;
+  top: 50px;
+  left: 55%;
+  transform: translate(-50%, -50%)
+}
+
