@@ -1,7 +1,7 @@
 var flag = 1;
 
 function f1() {
-    alert("AWWWW");
+    alert("WHY ARE YOU GEY?");
 }
 
 function f() {
