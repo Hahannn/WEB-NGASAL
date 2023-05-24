@@ -9,7 +9,7 @@ function f() {
 
     if (flag == 1) {
         Bn.style.top = calculateResponsiveValue(100, 'top');
-        Bn.style.left = calculateResponsiveValue(1030, 'left');
+        Bn.style.left = calculateResponsiveValue(1070, 'left');
         flag = 2;
     } else if (flag == 2) {
         Bn.style.top = calculateResponsiveValue(400, 'top');
