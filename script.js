@@ -13,11 +13,11 @@ function f() {
         flag = 2;
     } else if (flag == 2) {
         Bn.style.top = calculateResponsiveValue(400, 'top');
-        Bn.style.left = calculateResponsiveValue(50, 'left');
+        Bn.style.left = calculateResponsiveValue(750, 'left');
         flag = 3;
     } else if (flag == 3) {
         Bn.style.top = calculateResponsiveValue(370, 'top');
-        Bn.style.left = calculateResponsiveValue(166, 'left');
+        Bn.style.left = calculateResponsiveValue(600, 'left');
         flag = 1;
     }
 }
