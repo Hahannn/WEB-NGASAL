@@ -9,11 +9,11 @@ function f() {
 
     if (flag == 1) {
         Bn.style.top = calculateResponsiveValue(100, 'top');
-        Bn.style.left = calculateResponsiveValue(1070, 'left');
+        Bn.style.left = calculateResponsiveValue(1200, 'left');
         flag = 2;
     } else if (flag == 2) {
         Bn.style.top = calculateResponsiveValue(400, 'top');
-        Bn.style.left = calculateResponsiveValue(750, 'left');
+        Bn.style.left = calculateResponsiveValue(900, 'left');
         flag = 3;
     } else if (flag == 3) {
         Bn.style.top = calculateResponsiveValue(370, 'top');
