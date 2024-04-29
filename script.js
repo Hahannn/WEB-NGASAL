@@ -1,7 +1,7 @@
 var flag = 1;
 
 function f1() {
-    alert("WKWKWK");
+    alert("aww tysm ily");
 }
 
 function f() {
