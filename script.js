@@ -5,7 +5,7 @@ function f1() {
 }
 
 function f() {
-    var Bn = document.getElementById("Bn"); // Replace "yourElementId" with the actual ID of your element
+    var Bn = document.getElementById("Bn");
 
     if (flag == 1) {
         Bn.style.top = calculateResponsiveValue(100, 'top');
